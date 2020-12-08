@@ -4,6 +4,7 @@ The data is about direct marketing campaigns (phone calls) of a Portuguese banki
 The goal is to predict whether the client will subscribe (yes/no) to a term deposit. Key Process Owners can use the output of this prediction to improve the stragegy for the next market campaign.
 
 Data Dictionary:
+
 1.bank client data
 * Age (numeric)
 * Job : type of job
